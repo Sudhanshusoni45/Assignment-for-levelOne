@@ -22,7 +22,17 @@ var questionThree = {
   answer : 'sun'
 }
 
-var arr = [questionOne,questionTwo,questionThree]
+var questionFour = {
+  question : 'which is the smallest planet in our solar system? ',
+  answer : 'mercury'
+}
+
+var questionFive = {
+  question : 'which is the nearest galaxy to the milky way? ',
+  answer : 'andromeda'
+}
+
+var arr = [questionOne,questionTwo,questionThree,questionFour,questionFive]
 
 
 
